@@ -13,4 +13,18 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="Background">
+        <item name="background">@color/white_background</item>
+    </style>
+
+    <style name="CardBackground">
+        <item name="background">@color/white_cardBg</item>
+    </style>
+
+    <style name="PrimaryText">
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
 </resources>
